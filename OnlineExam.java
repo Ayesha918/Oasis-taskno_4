@@ -4,7 +4,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 import java.util.HashMap;
 
-public class OnlineExam {
+public class OnlineExamination {
     private String username;
     private String password;
     private boolean loggedIn = false;
